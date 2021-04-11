@@ -1,3 +1,10 @@
+
+>> [<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<]    
+># [- HTML ADMIN WITH SCSS -]  
+>## NOTE: not responsive yet! 
+>![ SCSS HTML ADMIN ](/img/screenshot_1.png)
+>   
+>> [<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<]    
 # APP
 
 ## usage
