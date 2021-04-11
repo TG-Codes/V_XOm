@@ -1,3 +1,7 @@
 node_modules
 wep_app/app/assets/node_modules/*
 wep_app/api/included_files/vendor/*
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
